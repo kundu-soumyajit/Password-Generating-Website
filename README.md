@@ -101,6 +101,6 @@ This project is a great example of combining:
 It’s simple, but feels like a real product.
 
 
-127.0.0.1:5500/INDEX.html
+http://127.0.0.1:5500/INDEX.html
 
 
