@@ -101,3 +101,6 @@ This project is a great example of combining:
 It’s simple, but feels like a real product.
 
 http://127.0.0.1:5500/soumya.html
+
+<img width="646" height="806" alt="image" src="https://github.com/user-attachments/assets/e99f8fb1-628c-4f4b-bb77-2250b485a6a6" />
+
