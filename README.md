@@ -102,7 +102,7 @@ It’s simple, but feels like a real product.
 
 🌐 Website:
 
-http://127.0.0.1:5500/soumya.html
+(http://127.0.0.1:5500/password-generator.html)
 
 👉 DEMO:
 
