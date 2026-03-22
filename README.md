@@ -22,13 +22,13 @@ A slider lets users choose length from 4 to 50 characters.
 
 Users can include:
 
-  ○ Uppercase letters (A–Z)
+  ◇ Uppercase letters (A–Z)
 
-  ○ Lowercase letters (a–z)
+  ◇ Lowercase letters (a–z)
 
-  ○ Numbers (0–9)
+  ◇ Numbers (0–9)
 
-  ○ Symbols (!@#$%)
+  ◇ Symbols (!@#$%)
 
  ● Instant Generation
 
