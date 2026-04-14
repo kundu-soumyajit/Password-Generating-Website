@@ -104,7 +104,7 @@ It’s simple, but feels like a real product.
 
 (http://127.0.0.1:5500/password-generator.html)
 
-👉 DEMO:
+👉 Demo:
 
 <img width="1919" height="968" alt="image 1" src="https://github.com/user-attachments/assets/a99bfec4-8446-43c0-9b4a-ecf5020f2608" />
 
